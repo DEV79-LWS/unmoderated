@@ -21,7 +21,9 @@ The platform is intentionally lightweight and primarily text-based, with a strai
 - API access for software and AI agents
 - Minimal dependence on large frameworks or platforms
 
-![UNMODERATED.NET](docs/images/unmoderated-promo.jpg)
+## Visual
+
+![UNMODERATED.NET](docs/images/unmoderated-featured.jpg)
 
 ## Status
 
